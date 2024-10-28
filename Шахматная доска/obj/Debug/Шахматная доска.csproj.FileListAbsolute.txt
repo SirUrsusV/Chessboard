@@ -1,0 +1,20 @@
+Z:\repos\Шахматная доска\bin\Debug\Шахматная доска.exe.config
+Z:\repos\Шахматная доска\bin\Debug\Шахматная доска.exe
+Z:\repos\Шахматная доска\bin\Debug\Шахматная доска.pdb
+Z:\repos\Шахматная доска\obj\Debug\Шахматная доска.csproj.AssemblyReference.cache
+Z:\repos\Шахматная доска\obj\Debug\Шахматная_доска.Properties.Resources.resources
+Z:\repos\Шахматная доска\obj\Debug\Шахматная доска.csproj.GenerateResource.cache
+Z:\repos\Шахматная доска\obj\Debug\Шахматная доска.csproj.CoreCompileInputs.cache
+Z:\repos\Шахматная доска\obj\Debug\Шахматная доска.exe
+Z:\repos\Шахматная доска\obj\Debug\Шахматная доска.pdb
+Z:\repos\Шахматная доска\obj\Debug\Шахматная_доска.Form1.resources
+E:\Шахматная доска\bin\Debug\Шахматная доска.exe.config
+E:\Шахматная доска\bin\Debug\Шахматная доска.exe
+E:\Шахматная доска\bin\Debug\Шахматная доска.pdb
+E:\Шахматная доска\obj\Debug\Шахматная доска.csproj.AssemblyReference.cache
+E:\Шахматная доска\obj\Debug\Шахматная_доска.Form1.resources
+E:\Шахматная доска\obj\Debug\Шахматная_доска.Properties.Resources.resources
+E:\Шахматная доска\obj\Debug\Шахматная доска.csproj.GenerateResource.cache
+E:\Шахматная доска\obj\Debug\Шахматная доска.csproj.CoreCompileInputs.cache
+E:\Шахматная доска\obj\Debug\Шахматная доска.exe
+E:\Шахматная доска\obj\Debug\Шахматная доска.pdb
